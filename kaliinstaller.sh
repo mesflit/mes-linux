@@ -7,4 +7,4 @@ clear; echo "Added Kali Linux
 you can download by typing
 'proot-distro login kali'
 You can start by typing
-NOTE: After booting kali linux on first download type this command 'rm -rf /var/lib/dpkg/info/postgresql* && dpkg --configure -a' you won't get an error
+NOTE: After booting kali linux on first download type this command 'rm -rf /var/lib/dpkg/info/postgresql* && dpkg --configure -a' you won't get an error";
