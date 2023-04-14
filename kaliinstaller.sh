@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 apt update;
  apt install proot-distro;
- wget https://raw.githubusercontent.com/mesflit/proot-distro/main/kali.sh $PREFIX/etc/proot-distro/;
+ wget https://raw.githubusercontent.com/mesflit/proot-distro/main/kali.sh -O $PREFIX/etc/proot-distro/;
 clear; echo "Added Kali Linux
 'install proot-distro kali'
 you can download by typing
