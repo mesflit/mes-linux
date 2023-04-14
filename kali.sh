@@ -1,4 +1,8 @@
-apt update; apt install proot-distro; touch $PREFIX/etc/proot-distro/kali.sh; echo "DISTRO_NAME="Kali Linux (nethunter)"
+#!/data/data/com.termux/files/usr/bin/bash
+apt update;
+ apt install proot-distro;
+ touch $PREFIX/etc/proot-distro/kali.sh;
+echo "DISTRO_NAME="Kali Linux (nethunter)"
 
 TARBALL_URL['aarch64']="https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-minimal.tar.xz"
 TARBALL_SHA256['aarch64']="7e17a35e1528a5efc12bf1bbad00a764d38a5724e2b08a226849c594a3b3f029"
