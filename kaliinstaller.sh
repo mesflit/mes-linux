@@ -2,6 +2,7 @@
 apt update;
  apt install proot-distro;
  wget https://raw.githubusercontent.com/mesflit/proot-distro/main/kali.sh -O $PREFIX/etc/proot-distro/;
+chmod +x $PREFIX/etc/proot-distro/kali.sh
 clear; echo "Added Kali Linux
 'proot-distro install kali'
 you can download by typing
