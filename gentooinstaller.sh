@@ -8,4 +8,4 @@ clear; echo "Added Gentoo
 'proot-distro install gentoo'
 you can download by typing
 'proot-distro login gentoo'
-You can start by typing
+You can start by typing"
