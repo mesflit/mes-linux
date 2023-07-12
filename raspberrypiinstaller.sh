@@ -5,7 +5,7 @@ apt update;
 
 
 mv raspberrypi.sh $PREFIX/etc/proot-distro/raspberrypi.sh;
-proot-distro install kali;
+proot-distro install raspberrypi;
 clear; echo "Added Raspberry Pi
 
 'proot-distro login raspberrypi'
