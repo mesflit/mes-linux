@@ -1,5 +1,3 @@
-#!/bin/bash
-
 rm -rf $PREFIX/etc/proot-distro/raspberrypi.sh;
 apt update;
  apt install proot-distro;
