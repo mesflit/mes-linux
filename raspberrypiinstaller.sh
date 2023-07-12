@@ -10,4 +10,4 @@ proot-distro install kali;
 clear; echo "Added Raspberry Pi
 
 'proot-distro login raspberrypi'
-You can start by typing
+You can start by typing"
