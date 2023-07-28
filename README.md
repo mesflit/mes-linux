@@ -1,6 +1,6 @@
 # How to use
 
-`mes-linux help`
+```mes-linux help```
 
 # Mes Linux
 
