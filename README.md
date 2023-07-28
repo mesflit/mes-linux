@@ -22,6 +22,9 @@ before run and refuses to work if detected user id `0` (root).
 Here are the supported distributions (alias: name):
 
 * `kali`: Kali Linux (nethunter)
+* `raspberrypi`: Raspberry Pi
+* `gentoo`: Gentoo Linux
+* `void`: Void Linux
 
 
 
