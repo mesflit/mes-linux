@@ -1,5 +1,0 @@
-DISTRO_NAME="Raspberry Pi (raspberrypi)"
-TARBALL_URL['aarch64']="https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2022-04-07/2022-04-04-raspios-bullseye-arm64-lite.img.xz"
-TARBALL_SHA256['aarch64']="35f1d2f4105e01f4ca888ab4ced6912411e82a2539c53c9e4e6b795f25275a1f"
-TARBALL_URL['arm']="https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-04-07/2022-04-04-raspios-bullseye-armhf-lite.img.xz"
-TARBALL_SHA256['arm']="34987327503fac1076e53f3584f95ca5f41a6a790943f1979262d58d62b04175"
