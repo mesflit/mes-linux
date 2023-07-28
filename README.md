@@ -1,3 +1,7 @@
+# How to use
+
+`mes-linux help`
+
 # Mes Linux
 
 A Bash script wrapper for utility [proot] for easy management of chroot-based
