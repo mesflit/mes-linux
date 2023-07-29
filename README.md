@@ -1,10 +1,10 @@
-<center>
+<p align="Center">
 <a href="https://www.codefactor.io/repository/github/mesflit/mes-linux"><img src="https://www.codefactor.io/repository/github/mesflit/mes-linux/badge" alt="CodeFactor" /></a>
 
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmesflit%2Fmes-linux"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmesflit%2Fmes-linux&countColor=%23263759" /></a>
  
-</center>
+</p>
 
 
 # How to use
